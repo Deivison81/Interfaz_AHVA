@@ -26,4 +26,7 @@ Solución web funcional que integra un backend robusto basado en capas y un fron
 ## TIpo de Documento = 1 DNI 2 CPE
 ## Usuario: 07079879
 
+##Observaciones en la capeta documentos encontra scrit de sql para cerar las tablas de base detaos y el poyecto backend an el appsenting la configuracion de los datos de base de datos
+normalmente estaria en el git ignore este archivo pero para que puedan porbar la aplicacoin lo deje, adiconal tambien coloque CNPE el proyecto .net y en CNPE Froented encontrar todo lo referente al forntend 
+
 ## Contraseña: 12345678

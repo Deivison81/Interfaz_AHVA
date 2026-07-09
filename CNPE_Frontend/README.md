@@ -23,7 +23,7 @@ Solución web funcional que integra un backend robusto basado en capas y un fron
    cd CNPE_FRONTEND
    npm install
    npm run dev
+## TIpo de Documento = 1 DNI 2 CPE
+## Usuario: 07079879
 
-## Usuario: 46846596
-
-## Contraseña: 123456
+## Contraseña: 12345678

@@ -1,0 +1,43 @@
+# Build outputs
+bin/
+obj/
+out/
+dist/
+build/
+
+# .NET user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Logs
+*.log
+logs/
+
+# Node / frontend
+node_modules/
+.npm/
+.pnpm-store/
+
+# Vite / TypeScript cache
+.vite/
+*.tsbuildinfo
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.vs/
+**/.vs/

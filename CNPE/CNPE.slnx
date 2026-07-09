@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CNPE.APLICATION/CNPE.APLICATION.csproj" />
+  <Project Path="CNPE.MODELS/CNPE.MODELS.csproj" />
+  <Project Path="CNPE.PERSITENCE/CNPE.PERSITENCE.csproj" />
+  <Project Path="CNPE.WEBAPI/CNPE.WEBAPI.csproj" Id="694a0e14-ee74-455c-bc26-9a64d489b3c8" />
+</Solution>
